@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 15px;
+}
+tr, td {
+    height: 30px;
+}
+.altura_linha {
+    height: 15px;
+}
+.amarelo {
+    background-color: rgb(240, 241, 163);
+}
+.roxo {
+    background-color: rgb(191, 132, 214);
+}
+.verde {
+    background-color: rgb(131, 221, 169);
+}
